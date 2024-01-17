@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="HoHo04.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_13_43.exb at 2023_04_26_05_13_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_33_43.exb at 2023_04_26_05_33_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_53_43.exb at 2023_04_26_05_53_43;C:\Users\user\EXMARaLDA_AutoBackup_2023_05_14_07_07_52.exb at 2023_05_14_07_07_52</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Hotz</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Houmsi</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK2">
+<abbreviation>Pause</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="0.33331335610001805"/>
+<tli id="T5" time="0.4133085615640224"/>
+<tli id="T55" time="0.4733049656620256"/>
+<tli id="T56" time="1.459912499718079"/>
+<tli id="T6" time="1.5532402394260842"/>
+<tli id="T57" time="2.0265452050881096"/>
+<tli id="T3" time="2.21320068450412"/>
+<tli id="T58" time="3.33313356100018"/>
+<tli id="T4" time="3.6864457184661994"/>
+<tli id="T7" time="3.6931119855882004"/>
+<tli id="T59" time="5.35301249896629"/>
+<tli id="T8" time="6.576272515853356"/>
+<tli id="T60" time="7.806198799862423"/>
+<tli id="T61" time="7.859528936838425"/>
+<tli id="T62" time="10.579365922614572"/>
+<tli id="T63" time="10.679359929444578"/>
+<tli id="T64" time="12.139272429162656"/>
+<tli id="T65" time="12.159271230528656"/>
+<tli id="T66" time="12.419255648286674"/>
+<tli id="T9" time="16.81899194880691"/>
+<tli id="T10" time="17.178970373394932"/>
+<tli id="T67" time="17.405623455542944"/>
+<tli id="T68" time="18.87886848950502"/>
+<tli id="T69" time="18.958863694969025"/>
+<tli id="T70" time="20.245453249515098"/>
+<tli id="T11" time="20.392111126199104"/>
+<tli id="T71" time="20.49210513302911"/>
+<tli id="T12" time="20.592099139859116"/>
+<tli id="T72" time="21.578706673915168"/>
+<tli id="T73" time="21.605371742403168"/>
+<tli id="T74" time="23.40526386534327"/>
+<tli id="T75" time="23.43192893383127"/>
+<tli id="T76" time="23.805239892663288"/>
+<tli id="T77" time="23.838571228273292"/>
+<tli id="T78" time="24.938505303403353"/>
+<tli id="T79" time="24.971836639013354"/>
+<tli id="T13" time="25.982887152516742"/>
+<tli id="T80" time="26.505078077073435"/>
+<tli id="T81" time="26.885055303027457"/>
+<tli id="T14" time="27.071710782443464"/>
+<tli id="T82" time="28.324969001379532"/>
+<tli id="T83" time="28.344967802745533"/>
+<tli id="T84" time="30.678161295445662"/>
+<tli id="T85" time="30.704826363933662"/>
+<tli id="T86" time="31.16479879535169"/>
+<tli id="T87" time="31.184797596717686"/>
+<tli id="T88" time="34.004628589323836"/>
+<tli id="T89" time="34.024627390689844"/>
+<tli id="T90" time="36.044506328655956"/>
+<tli id="T91" time="36.057838862899956"/>
+<tli id="T92" time="38.04438646525606"/>
+<tli id="T93" time="38.05771899950006"/>
+<tli id="T94" time="38.764343314432104"/>
+<tli id="T95" time="38.791008382920104"/>
+<tli id="T96" time="40.6442306428362"/>
+<tli id="T97" time="40.664229444202206"/>
+<tli id="T98" time="43.72404605320036"/>
+<tli id="T99" time="43.75071112168837"/>
+<tli id="T100" time="47.51048577849657"/>
+<tli id="T101" time="47.710473792156584"/>
+<tli id="T15" time="47.757137662010585"/>
+<tli id="T16" time="49.157053757630656"/>
+<tli id="T102" time="50.27698663412672"/>
+<tli id="T103" time="50.523638517640734"/>
+<tli id="T104" time="50.54363731900674"/>
+<tli id="T105" time="52.043547421456815"/>
+<tli id="T106" time="52.87683081170687"/>
+<tli id="T107" time="52.89682961307286"/>
+<tli id="T108" time="55.123362831820984"/>
+<tli id="T109" time="55.430011119433004"/>
+<tli id="T17" time="55.516672592019"/>
+<tli id="T18" time="56.19663183846304"/>
+<tli id="T110" time="56.60994040002706"/>
+<tli id="T111" time="56.629939201393064"/>
+<tli id="T112" time="57.63654553681511"/>
+<tli id="T113" time="57.66321060530312"/>
+<tli id="T19" time="58.04985409837914"/>
+<tli id="T114" time="59.0697929680452"/>
+<tli id="T20" time="59.48976779673122"/>
+<tli id="T21" time="60.84302002249729"/>
+<tli id="T22" time="63.26954125490543"/>
+<tli id="T23" time="65.46274313804355"/>
+<tli id="T115" time="66.82266163093162"/>
+<tli id="T116" time="67.19597258976364"/>
+<tli id="T24" time="68.00259091152569"/>
+<tli id="T25" time="69.52249981534177"/>
+<tli id="T26" time="70.1957927946638"/>
+<tli id="T117" time="71.9490210477499"/>
+<tli id="T27" time="72.51565375311993"/>
+<tli id="T28" time="72.80230323936594"/>
+<tli id="T29" time="73.37560221185797"/>
+<tli id="T118" time="73.42226608171198"/>
+<tli id="T30" time="75.31548594436008"/>
+<tli id="T31" time="76.84206111529816"/>
+<tli id="T32" time="77.5420191631082"/>
+<tli id="T33" time="78.43529895745625"/>
+<tli id="T34" time="79.4952354298543"/>
+<tli id="T35" time="81.4952354298543"/>
+<tli id="T36" time="82.36839655943646"/>
+<tli id="T37" time="83.57499090851852"/>
+<tli id="T119" time="83.76164638793453"/>
+<tli id="T38" time="84.26161642208456"/>
+<tli id="T120" time="84.6815912507706"/>
+<tli id="T39" time="85.01490460687059"/>
+<tli id="T121" time="85.1615624835546"/>
+<tli id="T122" time="86.93478953800671"/>
+<tli id="T123" time="87.18810768864272"/>
+<tli id="T40" time="87.35476436669273"/>
+<tli id="T41" time="87.76807292825674"/>
+<tli id="T124" time="88.38803577060278"/>
+<tli id="T125" time="88.40803457196877"/>
+<tli id="T126" time="89.44797224300083"/>
+<tli id="T127" time="89.52130118134285"/>
+<tli id="T42" time="89.57463131831885"/>
+<tli id="T43" time="90.2879219003729"/>
+<tli id="T128" time="90.4945761811549"/>
+<tli id="T129" time="90.5212412496429"/>
+<tli id="T44" time="91.63450785901696"/>
+<tli id="T130" time="91.68783799599296"/>
+<tli id="T131" time="91.71450306448098"/>
+<tli id="T132" time="93.74104826956908"/>
+<tli id="T133" time="94.70765700225914"/>
+<tli id="T45" time="94.80098474196713"/>
+<tli id="T134" time="94.82098354333313"/>
+<tli id="T46" time="95.62093559797317"/>
+<tli id="T135" time="96.1875683033432"/>
+<tli id="T136" time="96.94752275525126"/>
+<tli id="T47" time="98.44743285770132"/>
+<tli id="T137" time="99.26738371370737"/>
+<tli id="T48" time="100.01400563137142"/>
+<tli id="T138" time="100.05400323410342"/>
+<tli id="T139" time="101.94055682962951"/>
+<tli id="T140" time="101.98055443236152"/>
+<tli id="T49" time="102.01400563137142"/>
+<tli id="T141" time="102.92716436368558"/>
+<tli id="T142" time="102.94716316505158"/>
+<tli id="T50" time="104.37374432915965"/>
+<tli id="T143" time="105.44034706867971"/>
+<tli id="T144" time="105.92698456858572"/>
+<tli id="T51" time="106.13363884936776"/>
+<tli id="T145" time="107.53355494498783"/>
+<tli id="T146" time="107.58021881484181"/>
+<tli id="T52" time="107.58688508196381"/>
+<tli id="T53" time="109.14012532138992"/>
+<tli id="T147" time="109.87341470480995"/>
+<tli id="T54" time="110.59337155398599"/>
+<tli id="T1" time="110.84"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="Hotz [v]"><event start="T2" end="T6">weil ICH auch|</event>
+<event start="T6" end="T3">und das|</event>
+<event start="T3" end="T58">ist SO dumm|</event>
+<event start="T58" end="T59">°h ich ich ich jammere so oft|</event>
+<event start="T59" end="T61"> und viel äh über meinen siemensjob damals|</event>
+<event start="T61" end="T62">und dies als es a pe arbeiter und so weiter|</event>
+<event start="T62" end="T64">°h aber was geil war|</event>
+<event start="T64" end="T66">(0.3)|</event>
+<event start="T66" end="T9">ich bin jeden tag um zwischen so sieben und halb acht b war ich im büro|</event>
+<event start="T67" end="T68">und um fünfzehn uhr dreißig|</event>
+<event start="T68" end="T70">spätestens sechzehn uhr|</event>
+<event start="T70" end="T11">(0.1)|</event>
+<event start="T11" end="T12">hab|</event>
+<event start="T12" end="T73"> ich den stift fallen lass_n|</event>
+<event start="T73" end="T75">dann hatt ich irgendwie so ne halbe überstunde noch|</event>
+<event start="T75" end="T76">(0.4)|</event>
+<event start="T76" end="T78">und und bin hEIm gegangen|</event>
+<event start="T78" end="T80">und danach war der job WEG|</event>
+<event start="T80" end="T14">(0.4) und|</event>
+<event start="T14" end="T82"> es gab natürlich leute|</event>
+<event start="T82" end="T84">die dann so in mei_m umfeld äh im büro|</event>
+<event start="T84" end="T86">dann so gesagt ha_n|</event>
+<event start="T86" end="T88">ja ich hab ich hab schon wieder hundert zwanzisch überstunde aufe kondo|</event>
+<event start="T88" end="T90">und da kann ich ja (x) a jahr lang abfeiern du|</event>
+<event start="T90" end="T92">°h und das is a das das passiert|</event>
+<event start="T92" end="T94">aber es war so|</event>
+<event start="T94" end="T96">dadurch dass man so ne arbeitszeit|</event>
+<event start="T96" end="T98">(xxx) arbeitszeitdokumentaTION hatte|</event>
+<event start="T98" end="T100">war das halt so n angeben das sowas handfestes hatte|</event>
+<event start="T100" end="T16">und immer wenn ich mich mit leuten| </event>
+<event start="T16" end="T102">(0.3) unterhalte|</event>
+<event start="T102" end="T103">(0.2)|</event>
+<event start="T103" end="T105">die so auch in der medienbranche arbeiten|</event>
+<event start="T105" end="T106">dann schwingt immer so mit|</event>
+<event start="T106" end="T108">°h ich arbeite so viel gerade|</event>
+<event start="T108" end="T109">(0.3)|</event>
+<event start="T109" end="T18">und und und und du bist|</event>
+<event start="T18" end="T110">immer so|</event>
+<event start="T110" end="T112">ja da hatt ich noch n call|</event>
+<event start="T112" end="T114">(und ja)|</event>
+<event start="T115" end="T116">ja|</event>
+<event start="T117" end="T118">°h AHHH|</event>
+<event start="T119" end="T38">also in den| </event>
+<event start="T38" end="T120">neunz|</event>
+<event start="T121" end="T122">also in den neunzigern war das standard|</event>
+<event start="T122" end="T40">da ham| </event>
+<event start="T40" end="T41">wir noch bis|</event>
+<event start="T41" end="T124"> vier gefeiert|</event>
+<event start="T124" end="T126">um acht war_n wir im büro|</event>
+<event start="T126" end="T43">um elf ham wir|</event>
+<event start="T43" end="T128"> mitta|</event>
+<event start="T128" end="T130">ham wir schon wieder sekt getrunken|</event>
+<event start="T130" end="T133">aber bei uns funktioniert das hat super funktioniert so viel besser als heute|</event>
+<event start="T133" end="T46">so fuck you|</event>
+<event start="T46" end="T135"> alter|</event>
+<event start="T136" end="T137">so geile ah die killerwölfe|</event>
+<event start="T138" end="T139">und damals die talkshows war_n ja auch viel besser|</event>
+<event start="T139" end="T141">dann ham wir ja hier noch so|</event>
+<event start="T141" end="T50">°h ahr noch n spiel|</event>
+<event start="T50" end="T143"> erfunden|</event>
+<event start="T144" end="T145">da war (x) da durft|</event>
+<event start="T146" end="T53">da durfte man noch komplimente machen vor der| </event>
+<event start="T53" end="T147">kaffeemaschine|</event>
+</tier><tier id="TIE1" speaker="SPK1" category="v" type="t" display-name="Houmsi [v]"><event start="T0" end="T2">elf|</event>
+<event start="T2" end="T6">natürlich (0.5) na|</event>
+<event start="T6" end="T3">türlich|</event>
+<event start="T58" end="T59">@@@ (0.3) @@|</event>
+<event start="T59" end="T8"></event>
+<event start="T9" end="T10">mhm|</event>
+<event start="T11" end="T12">hm|</event>
+<event start="T80" end="T14">n ja|</event>
+<event start="T100" end="T16">°h ja °h|</event>
+<event start="T109" end="T18">°h|</event>
+<event start="T112" end="T114">oha aber kennst du auch|</event>
+<event start="T114" end="T20">so leute|</event>
+<event start="T20" end="T21">ich hass ich hasse das so sehr|</event>
+<event start="T21" end="T22">kennst du das wenn du irgendwie so einfach wenn dich jemand fragt wie geht_s so|</event>
+<event start="T22" end="T23">und du bist so boah gerade °h mega volle woche|</event>
+<event start="T23" end="T115">ich bereite gerade zwei tage| </event>
+<event start="T115" end="T116">doppelmo|</event>
+<event start="T116" end="T24"> deration vor|</event>
+<event start="T24" end="T25">und ich weiß grad nicht wo mir der kopf steht|</event>
+<event start="T25" end="T26">und dann sind leu|</event>
+<event start="T26" end="T117">es gibt so leute die dann so_n wettbewerb|</event>
+<event start="T117" end="T118"> daraus machen ja se sind so|</event>
+<event start="T118" end="T30">°h oha ja ich arbeite ja NOch viel mehr|</event>
+<event start="T30" end="T31">ich hab VIer tage moderation|</event>
+<event start="T31" end="T32">und ich denk mir so|</event>
+<event start="T32" end="T33">(0.9)|</event>
+<event start="T33" end="T34">j ja äh also|</event>
+<event start="T34" end="T35">schön f für dich|</event>
+<event start="T35" end="T36">es is ase|</event>
+<event start="T36" end="T37">wir machen hier grad ase|</event>
+<event start="T38" end="T120">fahr ma| </event>
+<event start="T120" end="T39">runter|</event>
+<event start="T40" end="T41">°h|</event>
+<event start="T126" end="T43">jaha|</event>
+<event start="T44" end="T130"></event>
+<event start="T130" end="T133">ja @@@ (1.0) @@@|</event>
+<event start="T133" end="T45"></event>
+<event start="T46" end="T135">wir ham|</event>
+<event start="T135" end="T136"> so geile artikel|</event>
+<event start="T136" end="T137">über die killerwölfe geschrieben das war_n die BE|</event>
+<event start="T137" end="T48">sten artikel|</event>
+<event start="T50" end="T143">da wAR das auch noch nich| </event>
+<event start="T143" end="T144">so mit me| </event>
+<event start="T144" end="T145">too da durft man auch einfach nochmal|</event>
+<event start="T145" end="T52"></event>
+<event start="T53" end="T147">(flüsternd) ja| </event>
+<event start="T147" end="T54">(flüsternd) wirklich|</event>
+</tier><tier id="TIE_" speaker="SPK2" category="v" type="t" display-name="Pause [v]"></tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="1" absolute-time-format="time" miliseconds-digits="1"/><tier-format tierref="TIE_"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">12</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE1"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">12</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">12</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">10</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">7</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>

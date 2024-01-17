@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="HoHo05.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_13_43.exb at 2023_04_26_05_13_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_33_43.exb at 2023_04_26_05_33_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_53_43.exb at 2023_04_26_05_53_43;C:\Users\User\EXMARaLDA_AutoBackup_2023_04_27_04_02_06.exb at 2023_04_27_04_02_06;C:\Users\User\EXMARaLDA_AutoBackup_2023_05_16_05_23_59.exb at 2023_05_16_05_23_59;C:\Users\User\EXMARaLDA_AutoBackup_2023_05_16_06_23_59.exb at 2023_05_16_06_23_59</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Hotz</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Houmsi</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK2">
+<abbreviation>Pause</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="0.18666470756119577"/>
+<tli id="T3" time="0.9866563113948918"/>
+<tli id="T4" time="2.266642877528806"/>
+<tli id="T5" time="3.3266317526084532"/>
+<tli id="T6" time="5.266611391905167"/>
+<tli id="T7" time="6.333266863683428"/>
+<tli id="T98" time="6.413266024066798"/>
+<tli id="T99" time="7.086592290626825"/>
+<tli id="T8" time="7.0999254840240535"/>
+<tli id="T100" time="7.506587882639516"/>
+<tli id="T9" time="7.926583474652207"/>
+<tli id="T101" time="8.493244194034407"/>
+<tli id="T102" time="8.813240835567886"/>
+<tli id="T103" time="8.833240625663729"/>
+<tli id="T11" time="9.086571300211066"/>
+<tli id="T14" time="9.487946397996593" type="intp"/>
+<tli id="T12" time="9.826563533757234"/>
+<tli id="T105" time="10.999884552713324"/>
+<tli id="T13" time="11.039884132905007"/>
+<tli id="T15" time="11.279881614055117"/>
+<tli id="T16" time="11.773209769752562"/>
+<tli id="T17" time="12.17320557166941"/>
+<tli id="T18" time="15.066508538867945"/>
+<tli id="T19" time="15.233173456333297"/>
+<tli id="T20" time="15.879833336098871"/>
+<tli id="T21" time="16.76649069701455"/>
+<tli id="T82" time="17.780356025167737" type="intp"/>
+<tli id="T22" time="19.773125808089524"/>
+<tli id="T23" time="20.233120980293897"/>
+<tli id="T24" time="22.65309558189083"/>
+<tli id="T25" time="22.866426676246483"/>
+<tli id="T26" time="24.559742237694476"/>
+<tli id="T27" time="24.959738039611324"/>
+<tli id="T28" time="26.933050662401104"/>
+<tli id="T29" time="28.386368742698984"/>
+<tli id="T30" time="29.98635195036638"/>
+<tli id="T32" time="31.52633578774624"/>
+<tli id="T31" time="33.11298580201641"/>
+<tli id="T33" time="36.31295221735119"/>
+<tli id="T34" time="37.51960621980035"/>
+<tli id="T35" time="40.41290918699888"/>
+<tli id="T36" time="43.21954639711544"/>
+<tli id="T38" time="45.67285398220544"/>
+<tli id="T37" time="46.486178779436365"/>
+<tli id="T107" time="47.17283823939362"/>
+<tli id="T108" time="47.28617038327006"/>
+<tli id="T109" time="47.66616639509106"/>
+<tli id="T39" time="47.719499168679974"/>
+<tli id="T40" time="48.466157998924764"/>
+<tli id="T41" time="49.01281892821112"/>
+<tli id="T42" time="49.872809902332335"/>
+<tli id="T110" time="50.41280423492009"/>
+<tli id="T45" time="51.56612546378034"/>
+<tli id="T43" time="51.5994584472734"/>
+<tli id="T96" time="52.326117487422344"/>
+<tli id="T46" time="52.89277820680454"/>
+<tli id="T112" time="53.266107621926935"/>
+<tli id="T111" time="53.69276981063825"/>
+<tli id="T47" time="54.44609523758164"/>
+<tli id="T49" time="54.826091249402644"/>
+<tli id="T48" time="57.23273265760234"/>
+<tli id="T50" time="57.799393376984554"/>
+<tli id="T44" time="59.01938057283093"/>
+<tli id="T53" time="59.02604716952955"/>
+<tli id="T106" time="59.48604234173393"/>
+<tli id="T51" time="59.779372596472946"/>
+<tli id="T52" time="61.35268941734588"/>
+<tli id="T55" time="62.52601043630197"/>
+<tli id="T56" time="64.24599238454441"/>
+<tli id="T58" time="65.73931004503399"/>
+<tli id="T54" time="68.23261721031567"/>
+<tli id="T60" time="68.7192787693145"/>
+<tli id="T57" time="68.75261175280757"/>
+<tli id="T113" time="68.94594305706737"/>
+<tli id="T114" time="69.40593822927177"/>
+<tli id="T59" time="69.5659365500385"/>
+<tli id="T61" time="71.41258383555461"/>
+<tli id="T62" time="73.17256536398874"/>
+<tli id="T63" time="74.78588176505336"/>
+<tli id="T115" time="76.30586581233739"/>
+<tli id="T64" time="76.33919879583046"/>
+<tli id="T65" time="76.85919333832237"/>
+<tli id="T66" time="77.28585552703366"/>
+<tli id="T67" time="78.05251414737428"/>
+<tli id="T68" time="80.01249357676684"/>
+<tli id="T70" time="80.97248350136726"/>
+<tli id="T71" time="82.13913792362476"/>
+<tli id="T116" time="83.14579402511549"/>
+<tli id="T69" time="83.20579339540302"/>
+<tli id="T72" time="85.73910014087639"/>
+<tli id="T117" time="86.4124264074364"/>
+<tli id="T119" time="86.58597297310678" type="intp"/>
+<tli id="T121" time="86.87521724922406" type="intp"/>
+<tli id="T10" time="87.47241528251607"/>
+<tli id="T122" time="87.99285713214128" type="intp"/>
+<tli id="T73" time="88.2057409193636"/>
+<tli id="T75" time="90.20571992894784"/>
+<tli id="T76" time="93.23235483011868"/>
+<tli id="T118" time="94.67233971701934"/>
+<tli id="T77" time="95.36566577367519"/>
+<tli id="T80" time="96.37065522599129" type="intp"/>
+<tli id="T79" time="96.70565171009665"/>
+<tli id="T120" time="97.43318793402172" type="intp"/>
+<tli id="T78" time="97.99897146962778"/>
+<tli id="T81" time="100.59227758538869"/>
+<tli id="T123" time="101.26827049062815" type="intp"/>
+<tli id="T83" time="102.8122542860272"/>
+<tli id="T84" time="105.05889737346014"/>
+<tli id="T85" time="107.40553941137233"/>
+<tli id="T86" time="109.68551548229834"/>
+<tli id="T74" time="110.2721759917764" type="intp"/>
+<tli id="T87" time="111.15216675599348"/>
+<tli id="T88" time="112.85881551083868"/>
+<tli id="T89" time="113.03214702500266"/>
+<tli id="T90" time="114.92546048740907"/>
+<tli id="T91" time="115.30545649923008"/>
+<tli id="T92" time="116.17211407004991"/>
+<tli id="T94" time="118.01876135556603"/>
+<tli id="T93" time="119.15874939102905"/>
+<tli id="T95" time="122.22538387239155"/>
+<tli id="T97" time="125.46534986791802"/>
+<tli id="T1" time="125.552"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="Hotz [v]"><event start="T2" end="T3">noch nie |</event>
+<event start="T3" end="T4">n problem damit gehabt wie ich ((gestotter)) |</event>
+<event start="T4" end="T5">vor na kaffema ((gestotter)) |</event>
+<event start="T5" end="T6">n kompliment zu machen und ich glaub weil ich es hinbekomme</event>
+<event start="T6" end="T7">dass es nicht weird ist | </event>
+<event start="T7" end="T8">h°</event>
+<event start="T8" end="T100">glaube </event>
+<event start="T100" end="T9">ich |</event>
+<event start="T101" end="T102">ja</event>
+<event start="T103" end="T11">es ist </event>
+<event start="T11" end="T14">einfach bis |</event>
+<event start="T12" end="T105">ja es ist nicht so weird |</event>
+<event start="T13" end="T15">man </event>
+<event start="T15" end="T16">kann vielleicht |</event>
+<event start="T16" end="T17"></event>
+<event start="T17" end="T18">vielleicht nicht sabbernt auf füße starren °h und sagen |</event>
+<event start="T19" end="T20">schöne schuhe |</event>
+<event start="T20" end="T21">vielleicht ist das ne idee |</event>
+<event start="T23" end="T24">hattest du schon mal so ne anfrage von der bild |</event>
+<event start="T26" end="T27">geil |</event>
+<event start="T27" end="T28">ja ich würde ja auf jeden fall da aufräumen |</event>
+<event start="T28" end="T29">@</event>
+<event start="T29" end="T30">ne äh ich hab ich hab ich hab mal ich hab |</event>
+<event start="T30" end="T32">ich bin ja ein °h |</event>
+<event start="T32" end="T31">mensch der durchaus|</event>
+<event start="T31" end="T33">das ein oder andere idiologische prinzip hat |</event>
+<event start="T33" end="T34">und ich war immer so |</event>
+<event start="T34" end="T35">ja | ich mach auf keinen fall ein interview mit der welt auf keinen fall mit der bild |</event>
+<event start="T35" end="T36">°h äh bla bla bla auch wenn es was bringt ich würde nein sagen |</event>
+<event start="T36" end="T38">°h turns out ich hab ausversehen schon mal | in nem </event>
+<event start="T38" end="T37"> axel springer medium |</event>
+<event start="T37" end="T107">n interview </event>
+<event start="T107" end="T108">ge</event>
+<event start="T108" end="T109">ja man |</event>
+<event start="T40" end="T41">das ist nämlich</event>
+<event start="T41" end="T42">auch so etwas |</event>
+<event start="T42" end="T110">warum hat </event>
+<event start="T110" end="T45">das ne sonderstellung</event>
+<event start="T43" end="T96">wir sind ja alle </event>
+<event start="T96" end="T46">in unserer</event>
+<event start="T112" end="T111">in so einer </event>
+<event start="T111" end="T47">coolen |</event>
+<event start="T47" end="T49">in so einer </event>
+<event start="T49" end="T48">coolen medienbranche sind wir ja alle wir sind ja alle °h |</event>
+<event start="T50" end="T44">erbitterte feinde | </event>
+<event start="T44" end="T53">aber </event>
+<event start="T53" end="T51">auch |</event>
+<event start="T51" end="T52">tun immer so auf äh cool °h |</event>
+<event start="T52" end="T55">aber warum hat |</event>
+<event start="T55" end="T56">der musikexpress das |</event>
+<event start="T56" end="T58">musikmagazin |</event>
+<event start="T58" end="T54"><![CDATA[das schnelle <<lachend>musikmagazin das du weist musikexpress> ]]></event>
+<event start="T54" end="T57">°h |</event>
+<event start="T57" end="T113">warum </event>
+<event start="T113" end="T59">hat das so |</event>
+<event start="T59" end="T61">@</event>
+<event start="T61" end="T62">aber warum hat das so ne weirde |</event>
+<event start="T62" end="T63">sonderstellung mit der dann so |</event>
+<event start="T63" end="T115">alle äh hängen mit denen ab </event>
+<event start="T64" end="T65">ich weis nicht die</event>
+<event start="T66" end="T67">ärzte |</event>
+<event start="T68" end="T70">aber warum</event>
+<event start="T71" end="T116">a aber wa </event>
+<event start="T116" end="T69">aber</event>
+<event start="T69" end="T72">warum sind die obwohl sie zum axel springer konzern gehören</event>
+<event start="T72" end="T117">warum arbeiten da </event>
+<event start="T117" end="T119">so </event>
+<event start="T119" end="T121">viele</event>
+<event start="T121" end="T10"> halbwegs </event>
+<event start="T10" end="T122">coole leute |</event>
+<event start="T76" end="T118">ja aber w na </event>
+<event start="T118" end="T77">sorry |</event>
+<event start="T77" end="T80"> ab ab ab aber </event>
+<event start="T80" end="T79">aber </event>
+<event start="T79" end="T120">aber wusste ich</event>
+<event start="T81" end="T123">ne fuck dem</event>
+<event start="T86" end="T74">fair </event>
+<event start="T88" end="T89">ja</event>
+<event start="T93" end="T95">äy wäy ich werd niemanden jugden für |</event>
+<event start="T95" end="T97">den job den er oder sie aus geldnöten machen musste |</event>
+</tier><tier id="TIE1" speaker="SPK1" category="v" type="t" display-name="Houmsi [v]"><event start="T98" end="T99">ja</event>
+<event start="T8" end="T100">ja</event>
+<event start="T9" end="T101">ja ich glaube </event>
+<event start="T101" end="T103">auch |</event>
+<event start="T11" end="T14">du hast mir schon</event>
+<event start="T14" end="T12"> mal ein</event>
+<event start="T12" end="T13">kompliment gemacht das ich finde</event>
+<event start="T13" end="T15">ja </event>
+<event start="T21" end="T82">ist mir schon mal passiert | </event>
+<event start="T82" end="T22">tatsächlich auch mit jemanden der bei der bild arbeitet |</event>
+<event start="T25" end="T26">ne aber vielleicht nach diesem podcast |</event>
+<event start="T28" end="T29">@</event>
+<event start="T29" end="T30">@</event>
+<event start="T37" end="T107">musikexpress </event>
+<event start="T107" end="T108">oder </event>
+<event start="T108" end="T39">sowas</event>
+<event start="T39" end="T40">ja klar</event>
+<event start="T40" end="T41">mmhh</event>
+<event start="T110" end="T45">((seufzen))</event>
+<event start="T96" end="T46">das hat keine</event>
+<event start="T46" end="T112"> sonder</event>
+<event start="T112" end="T111">stellung |</event>
+<event start="T47" end="T49">ja ja |</event>
+<event start="T44" end="T106">ja |</event>
+<event start="T54" end="T60">warum |</event>
+<event start="T113" end="T114">achso</event>
+<event start="T59" end="T61">@ |</event>
+<event start="T115" end="T64">ne </event>
+<event start="T64" end="T65">für mich hat</event>
+<event start="T65" end="T66"> kein </event>
+<event start="T66" end="T67">kein deutsches </event>
+<event start="T67" end="T68"> musik äh</event>
+<event start="T68" end="T70"> musikmagazin </event>
+<event start="T70" end="T71">irgendeine sonderstellung mehr |</event>
+<event start="T71" end="T116">wirklich keins |</event>
+<event start="T69" end="T72">*seufzen* </event>
+<event start="T119" end="T121">na weils</event>
+<event start="T121" end="T10"> halt immer |</event>
+<event start="T10" end="T122"> na weils </event>
+<event start="T122" end="T73">doch</event>
+<event start="T73" end="T75">immer schon dieses narrativ gab von | </event>
+<event start="T75" end="T76"><![CDATA[ja aber es gibt auch coole leute die bei der bild <<lachend>arbeiten> |]]></event>
+<event start="T118" end="T77">natü doch </event>
+<event start="T77" end="T80">wie häufig</event>
+<event start="T80" end="T79"> wurde denn</event>
+<event start="T79" end="T120"> kennst du das nicht </event>
+<event start="T120" end="T78">wenn du so bist |</event>
+<event start="T78" end="T81">die person die arbeitet bei a axel springer |</event>
+<event start="T81" end="T123">ne aber dies </event>
+<event start="T123" end="T83">das ist wirklich n guter journalist |</event>
+<event start="T83" end="T84">weil natürlich arbeiten da auch gute journalisten |</event>
+<event start="T84" end="T85">weil genau das problem | so</event>
+<event start="T85" end="T86">du kannst dir vielleicht auch nicht immer aussuchen |</event>
+<event start="T86" end="T74">wo du wie </event>
+<event start="T74" end="T87">anfangen willst |</event>
+<event start="T87" end="T88">und das wird ja unter anderem auch in dem podcast</event>
+<event start="T88" end="T89">auch</event>
+<event start="T89" end="T90">am beispiel der des vom musikexpress</event>
+<event start="T91" end="T92">erklärt |</event>
+<event start="T92" end="T94">so und dann rutscht du glaub ich ganz schnell in su </event>
+<event start="T94" end="T93">in so n system rein |</event>
+</tier><tier id="TIE_" speaker="SPK2" category="v" type="t" display-name="Pause [v]"><event start="T16" end="T17">(0.4)|</event>
+<event start="T18" end="T19">(0.2)|</event>
+<event start="T22" end="T23">(0.5)|</event>
+<event start="T24" end="T25">(0.2)|</event>
+<event start="T48" end="T50">(0.6)|</event>
+<event start="T90" end="T91">(0.4)|</event>
+</tier></basic-body>
+</basic-transcription>

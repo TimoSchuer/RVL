@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="HoHo03.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_13_43.exb at 2023_04_26_05_13_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_33_43.exb at 2023_04_26_05_33_43;C:\Users\Admin\EXMARaLDA_AutoBackup_2023_04_26_05_53_43.exb at 2023_04_26_05_53_43;C:\Users\mwhan\EXMARaLDA_AutoBackup_2023_05_14_09_44_06.exb at 2023_05_14_09_44_06</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Hotz</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Houmsi</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="2.893290074685535"/>
+<tli id="T3" time="3.1266199194182387"/>
+<tli id="T5" time="3.706611247753819"/>
+<tli id="T4" time="4.17993750421159"/>
+<tli id="T6" time="5.433252098775831"/>
+<tli id="T7" time="5.7065813454627135"/>
+<tli id="T9" time="6.65990042537062"/>
+<tli id="T10" time="10.366511673124437"/>
+<tli id="T11" time="12.299816100909704"/>
+<tli id="T12" time="13.819793375168462"/>
+<tli id="T8" time="14.619781414252023"/>
+<tli id="T17" time="15.399769752358491"/>
+<tli id="T18" time="15.826430039869722"/>
+<tli id="T13" time="16.353088832266398"/>
+<tli id="T14" time="18.113062518250224"/>
+<tli id="T15" time="15.579767061152292"/>
+<tli id="T16" time="18.539722805761457"/>
+<tli id="T20" time="19.699705462432615"/>
+<tli id="T21" time="22.179668383591643" type="intp"/>
+<tli id="T22" time="23.019655824629382"/>
+<tli id="T19" time="24.419634893025606"/>
+<tli id="T24" time="26.09960977510108"/>
+<tli id="T23" time="26.452937825696317"/>
+<tli id="T26" time="27.119594524932616"/>
+<tli id="T27" time="28.39957538746631"/>
+<tli id="T28" time="28.62623866520665"/>
+<tli id="T29" time="29.179563725572773"/>
+<tli id="T30" time="33.74616211534142"/>
+<tli id="T31" time="35.019476410882746"/>
+<tli id="T33" time="36.879448601752024"/>
+<tli id="T25" time="36.892781735736754"/>
+<tli id="T36" time="37.126111580469455"/>
+<tli id="T35" time="37.79943484669811"/>
+<tli id="T34" time="40.092733892070974"/>
+<tli id="T37" time="40.91938819912399"/>
+<tli id="T38" time="43.39268455329065"/>
+<tli id="T39" time="45.145991672282115"/>
+<tli id="T40" time="46.44597223579291"/>
+<tli id="T41" time="48.519274570417785"/>
+<tli id="T42" time="51.11256913044699"/>
+<tli id="T43" time="51.85255806659928"/>
+<tli id="T44" time="52.97920788830862"/>
+<tli id="T46" time="54.37918695670485"/>
+<tli id="T45" time="55.71916692216981"/>
+<tli id="T47" time="59.11244952128257"/>
+<tli id="T48" time="61.08575335102201"/>
+<tli id="T50" time="61.58574587544924"/>
+<tli id="T49" time="62.47239928543352"/>
+<tli id="T32" time="64.71236579486748"/>
+<tli id="T51" time="66.06567889431717"/>
+<tli id="T53" time="67.63898870451482"/>
+<tli id="T60" time="69.28563075162849"/>
+<tli id="T61" time="69.7856232760557"/>
+<tli id="T54" time="69.86176248854743" type="intp"/>
+<tli id="T55" time="71.5522635290319"/>
+<tli id="T56" time="72.56558171187108"/>
+<tli id="T62" time="73.70556466756514"/>
+<tli id="T64" time="73.77456287342768" type="intp"/>
+<tli id="T57" time="74.96554582912174"/>
+<tli id="T52" time="75.02554493205302"/>
+<tli id="T63" time="76.11219535180817"/>
+<tli id="T58" time="76.11886191880053"/>
+<tli id="T65" time="77.945501274708"/>
+<tli id="T66" time="78.18549768643305"/>
+<tli id="T59" time="78.21883052139488"/>
+<tli id="T68" time="79.49881138392858"/>
+<tli id="T69" time="80.07213614527178"/>
+<tli id="T70" time="80.83212478240117"/>
+<tli id="T71" time="81.98544087207996"/>
+<tli id="T72" time="83.23208889965184"/>
+<tli id="T73" time="84.7520661739106"/>
+<tli id="T74" time="85.64538615088725"/>
+<tli id="T75" time="86.58537209681042"/>
+<tli id="T76" time="87.22536252807727"/>
+<tli id="T67" time="87.67868908355796"/>
+<tli id="T78" time="88.87200457519093"/>
+<tli id="T79" time="90.6253116941824"/>
+<tli id="T82" time="90.97863974477762"/>
+<tli id="T83" time="91.36530063033467"/>
+<tli id="T80" time="91.80529405183064"/>
+<tli id="T84" time="92.71861372978437"/>
+<tli id="T81" time="92.72528029677673"/>
+<tli id="T85" time="92.95861014150942"/>
+<tli id="T89" time="93.41193669699011"/>
+<tli id="T90" time="93.61193370676101"/>
+<tli id="T77" time="93.71193221164644"/>
+<tli id="T87" time="94.6919175595238"/>
+<tli id="T91" time="95.23857605289759"/>
+<tli id="T92" time="95.55190470153863"/>
+<tli id="T88" time="95.61190380446992"/>
+<tli id="T93" time="96.47189094648472"/>
+<tli id="T94" time="96.7452201931716"/>
+<tli id="T95" time="97.36521092346138"/>
+<tli id="T96" time="97.83853717991913"/>
+<tli id="T86" time="97.98520165375112"/>
+<tli id="T97" time="98.62519208501797"/>
+<tli id="T98" time="100.62519208501797"/>
+<tli id="T99" time="101.22515321203953"/>
+<tli id="T101" time="101.91847617924529"/>
+<tli id="T102" time="103.15179107283244"/>
+<tli id="T103" time="104.5784364091981"/>
+<tli id="T104" time="106.59840620788411"/>
+<tli id="T100" time="106.6717384448001"/>
+<tli id="T108" time="107.2983957420822"/>
+<tli id="T106" time="107.36506141200584"/>
+<tli id="T109" time="107.37839454599056"/>
+<tli id="T107" time="108.73170764544025"/>
+<tli id="T105" time="110.90500848495059"/>
+<tli id="T1" time="111.298"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="Hotz [v]"><event start="T5" end="T4">((flüstert)) mindset |  </event>
+<event start="T4" end="T6">kauft das buch bei kiwi | </event>
+<event start="T12" end="T8">ja man | </event>
+<event start="T17" end="T13">und | </event>
+<event start="T16" end="T20">du nimmst jeden job an | </event>
+<event start="T20" end="T21">und wenn wir dir dann in irgendnem job jemand nochmal so um | </event>
+<event start="T21" end="T22">neunzehn uhr schreibt | </event>
+<event start="T22" end="T19">hey könn wir kurz in den call | </event>
+<event start="T19" end="T24">dann gehst du kurz in den call | </event>
+<event start="T25" end="T36">ja| </event>
+<event start="T32" end="T51">(1.4)|</event>
+<event start="T51" end="T53">ich ((stottert)) | </event>
+<event start="T53" end="T54">sollten medienhäuser zuhören bei denen ich | </event>
+<event start="T54" end="T55">bei denen ich grade angestellt bin | </event>
+<event start="T55" end="T56">ihr seid alle super | </event>
+<event start="T56" end="T62">ihr habt noch nie irgendetwas </event>
+<event start="T62" end="T57">falsch gemacht | </event>
+<event start="T57" end="T58">ihr seid die ein- </event>
+<event start="T58" end="T65">ihr seid die einzigen dies richtig </event>
+<event start="T65" end="T59">machen | </event>
+<event start="T59" end="T68">wenn ihr euch angegriffen fühlt | </event>
+<event start="T68" end="T69">bitte nicht | </event>
+<event start="T69" end="T70">bitte | </event>
+<event start="T70" end="T71">ruft mich um einundzwanzig uhr an | </event>
+<event start="T71" end="T72">ich sitze am computer | </event>
+<event start="T72" end="T73">und äh hab mich auch geduscht | </event>
+<event start="T73" end="T74">für diesen call | </event>
+<event start="T74" end="T75">bitte | </event>
+<event start="T75" end="T76">feuert mich nicht | </event>
+<event start="T82" end="T83">ja | </event>
+<event start="T81" end="T85">ja |</event>
+<event start="T89" end="T77">ja | </event>
+<event start="T91" end="T88">ja | </event>
+<event start="T93" end="T94">ja | </event>
+<event start="T95" end="T86">ja | </event>
+<event start="T97" end="T98">warst du schonmal in ner situation in deinem leben | </event>
+<event start="T100" end="T108">hast du | </event>
+<event start="T108" end="T107">ha hast du äh | </event>
+<event start="T107" end="T105">schonmal damit angegeben wie viel du gearbeitet hast | </event>
+</tier><tier id="TIE1" speaker="SPK1" category="v" type="t" display-name="Houmsi [v]"><event start="T0" end="T2">aber genau und dieses aber dieses mindset |  </event>
+<event start="T2" end="T3">(0.2)|</event>
+<event start="T3" end="T5">das</event>
+<event start="T5" end="T4">mindset | </event>
+<event start="T4" end="T6">(1.3)|</event>
+<event start="T6" end="T7">(0.3)|</event>
+<event start="T7" end="T9">das | </event>
+<event start="T9" end="T10">das ist ja auch dann voll schwer loszuwerden weil du die ganzen ersten jahre | </event>
+<event start="T10" end="T11">also bei mir dann zum beispiel bei diesem praktikum | </event>
+<event start="T11" end="T12">du nimmst halt jeden job an den du</event>
+<event start="T12" end="T8">kriegen kannst | </event>
+<event start="T8" end="T17">natürlich weil jede </event>
+<event start="T17" end="T13">chance | </event>
+<event start="T13" end="T14">du kriegst diese sicherheit nicht | </event>
+<event start="T14" end="T16">so |</event>
+<event start="T19" end="T24">na klar gehst du in call du bist doch </event>
+<event start="T24" end="T23"> nicht blöd | </event>
+<event start="T23" end="T26">und das | </event>
+<event start="T26" end="T27">und das ist halt das problem | </event>
+<event start="T27" end="T28">und | </event>
+<event start="T28" end="T29">ähm | </event>
+<event start="T29" end="T30">genau so ähnlich wurde das auch in diesem bild podacst beschrieben wies bei der bild ist dass du dich halt | </event>
+<event start="T30" end="T31">dadurch komplett verlierst | </event>
+<event start="T31" end="T25">dass du dein äh privatleben verlierst |  </event>
+<event start="T25" end="T36">und</event>
+<event start="T36" end="T35"> ähm | </event>
+<event start="T35" end="T34">ich wollte an der stelle einfach nochmal hinzufügen | </event>
+<event start="T34" end="T37">ja wie gesagt | </event>
+<event start="T37" end="T38">es ist wahrscheinlich bei der bild besonders extrem aber | </event>
+<event start="T38" end="T39">andere medienhäuser sind dafür auch prädestiniert | </event>
+<event start="T39" end="T40">und deswegen nervt mich das so | </event>
+<event start="T40" end="T41">dass man so mit dem finger auf die bild zeigt | </event>
+<event start="T41" end="T42">es nervt mich nicht ich habe ein ganz ganz großes problem mit diesem | </event>
+<event start="T42" end="T43">medienhaus | </event>
+<event start="T43" end="T44">und ich finde es super wichtig | </event>
+<event start="T44" end="T46">dass wir da mehr draufgucken | </event>
+<event start="T46" end="T45">aber ich finde es auch sehr wichtig | </event>
+<event start="T45" end="T47">dass wir alle mehr darauf gucken in was für medienhäusern arbeiten wir eigentlich | </event>
+<event start="T47" end="T48">und was läuft da eigentlich schief | </event>
+<event start="T48" end="T50">und dass es | </event>
+<event start="T50" end="T49">dass mans nicht | </event>
+<event start="T49" end="T32">weißte es ist immer so leicht das so von sich zu schieben</event>
+<event start="T60" end="T61">((lacht)|)|</event>
+<event start="T56" end="T62">ja ja bei mir auch | </event>
+<event start="T62" end="T57">bei mir übrigens auch</event>
+<event start="T57" end="T58"> liebe grüße gehen raus | </event>
+<event start="T65" end="T59">jap | </event>
+<event start="T75" end="T76">ich wollt dich auch noch</event>
+<event start="T76" end="T67"> fragen | </event>
+<event start="T67" end="T78">also wegen dem podacst | </event>
+<event start="T78" end="T79">ähm könntest du heute abend nochmal | </event>
+<event start="T79" end="T82">ich hab nachher</event>
+<event start="T82" end="T83"> noch </event>
+<event start="T83" end="T80">ne generalprobe | </event>
+<event start="T80" end="T81">ich könnt erst um zehn | </event>
+<event start="T81" end="T85">wär </event>
+<event start="T85" end="T89"> das </event>
+<event start="T89" end="T77">oke | </event>
+<event start="T77" end="T87">es äh es wär | </event>
+<event start="T87" end="T91">wirklich</event>
+<event start="T91" end="T88"> wichtig | </event>
+<event start="T88" end="T93">also es </event>
+<event start="T93" end="T94">geht </event>
+<event start="T94" end="T95">auch nur heute abend um</event>
+<event start="T95" end="T86"> zehn | </event>
+<event start="T86" end="T97">ok | </event>
+<event start="T98" end="T99">(0.6)|</event>
+<event start="T99" end="T101">ich war schonmal | </event>
+<event start="T101" end="T102">ich warte lass mich | </event>
+<event start="T102" end="T103">ich muss kurz drüber nachdenken | </event>
+<event start="T103" end="T100">ich glaub ich war schonmal in ner situation ja | </event>
+<event start="T100" end="T108">tatsächlich | </event>
+<event start="T108" end="T107"></event>
+</tier></basic-body>
+</basic-transcription>

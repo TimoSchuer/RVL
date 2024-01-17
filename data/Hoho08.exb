@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="HoHo08.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;/Users/indra/EXMARaLDA_AutoBackup_2023_05_19_05_48_27.exb at 2023_05_19_05_48_27;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_01_21_40.exb at 2023_05_26_01_21_40;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_02_21_40.exb at 2023_05_26_02_21_40;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_03_21_40.exb at 2023_05_26_03_21_40;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_04_21_40.exb at 2023_05_26_04_21_40;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_05_21_40.exb at 2023_05_26_05_21_40;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_06_21_41.exb at 2023_05_26_06_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_07_21_41.exb at 2023_05_26_07_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_08_21_41.exb at 2023_05_26_08_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_09_21_41.exb at 2023_05_26_09_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_10_21_41.exb at 2023_05_26_10_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_26_11_21_41.exb at 2023_05_26_11_21_41;/Users/indra/EXMARaLDA_AutoBackup_2023_05_27_03_08_30.exb at 2023_05_27_03_08_30;/Users/indra/EXMARaLDA_AutoBackup_2023_05_27_04_13_53.exb at 2023_05_27_04_13_53;/Users/indra/EXMARaLDA_AutoBackup_2023_05_27_05_13_53.exb at 2023_05_27_05_13_53;/Users/indra/EXMARaLDA_AutoBackup_2023_05_27_06_13_53.exb at 2023_05_27_06_13_53;/Users/indra/EXMARaLDA_AutoBackup_2023_05_28_10_32_55.exb at 2023_05_28_10_32_55;/Users/indra/EXMARaLDA_AutoBackup_2023_05_29_02_14_00.exb at 2023_05_29_02_14_00;/Users/indra/EXMARaLDA_AutoBackup_2023_05_29_03_14_00.exb at 2023_05_29_03_14_00</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Hotz</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Houmsi</abbreviation>
+<sex value="f"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK2">
+<abbreviation>Pause</abbreviation>
+<sex value="u"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="0.6466527743242454"/>
+<tli id="T3" time="1.2599729314152819"/>
+<tli id="T4" time="2.6732759021033234"/>
+<tli id="T5" time="2.8999376992891412"/>
+<tli id="T6" time="3.419926528127194"/>
+<tli id="T7" time="3.646588325313012"/>
+<tli id="T8" time="4.833229498815236"/>
+<tli id="T9" time="5.473215749692839"/>
+<tli id="T10" time="7.1731792285864735"/>
+<tli id="T11" time="9.186469309472267"/>
+<tli id="T12" time="9.913120365156212"/>
+<tli id="T13" time="10.233113490595015"/>
+<tli id="T14" time="11.646416461283055"/>
+<tli id="T15" time="11.873078258468873"/>
+<tli id="T16" time="14.139696230327054"/>
+<tli id="T17" time="14.453022832319212"/>
+<tli id="T18" time="14.939679043924057"/>
+<tli id="T19" time="17.71961932117365"/>
+<tli id="T20" time="18.339606001711328"/>
+<tli id="T21" time="18.639599556810204"/>
+<tli id="T22" time="19.712909831719518"/>
+<tli id="T23" time="21.546203779545987"/>
+<tli id="T24" time="23.539494290091856"/>
+<tli id="T25" time="24.666136752574303"/>
+<tli id="T26" time="24.979463354566466"/>
+<tli id="T27" time="25.78611269161011"/>
+<tli id="T28" time="27.052752146472034"/>
+<tli id="T29" time="27.952732811768662"/>
+<tli id="T30" time="28.21272722618769"/>
+<tli id="T31" time="28.75271562536567"/>
+<tli id="T32" time="29.926023751974604"/>
+<tli id="T33" time="30.832670940717883"/>
+<tli id="T35" time="32.48596875548502"/>
+<tli id="T113" time="32.58846655347713" type="intp"/>
+<tli id="T34" time="33.032623678109644"/>
+<tli id="T36" time="35.11257899346185"/>
+<tli id="T37" time="35.51923692370699"/>
+<tli id="T38" time="36.93258286040253"/>
+<tli id="T39" time="38.15251368513047"/>
+<tli id="T40" time="38.43917419333606"/>
+<tli id="T41" time="40.039139820530075"/>
+<tli id="T42" time="41.23244751747894"/>
+<tli id="T43" time="42.53241958957407"/>
+<tli id="T44" time="45.125697210317696"/>
+<tli id="T45" time="46.13234225076059"/>
+<tli id="T46" time="47.598977409021764"/>
+<tli id="T47" time="48.4522924101919"/>
+<tli id="T48" time="49.31227393480869"/>
+<tli id="T49" time="49.51893616165457"/>
+<tli id="T50" time="49.76559752918032"/>
+<tli id="T51" time="50.39891725661128"/>
+<tli id="T52" time="50.93223913234262"/>
+<tli id="T53" time="51.61222452390007"/>
+<tli id="T54" time="52.11888030584484"/>
+<tli id="T56" time="52.4477621292125" type="intp"/>
+<tli id="T55" time="53.10552577594781"/>
+<tli id="T57" time="53.54551632342616"/>
+<tli id="T58" time="53.86550944886497"/>
+<tli id="T59" time="55.01881800513398"/>
+<tli id="T60" time="55.94546476421718"/>
+<tli id="T61" time="57.13877246116604"/>
+<tli id="T62" time="58.9387337917593"/>
+<tli id="T64" time="59.45205609715071"/>
+<tli id="T63" time="60.3920359031272"/>
+<tli id="T65" time="62.225329850953656"/>
+<tli id="T66" time="64.22528688494617"/>
+<tli id="T68" time="64.67194395587117"/>
+<tli id="T69" time="66.29857567685174"/>
+<tli id="T114" time="66.86523016981629"/>
+<tli id="T67" time="68.21853442948454"/>
+<tli id="T70" time="69.40517560298679"/>
+<tli id="T72" time="70.30515626828341"/>
+<tli id="T74" time="71.94512103615727"/>
+<tli id="T71" time="72.91176693592031"/>
+<tli id="T73" time="73.89841240602328"/>
+<tli id="T75" time="76.07836557307512"/>
+<tli id="T76" time="78.25831874012697"/>
+<tli id="T77" time="79.0649680771706"/>
+<tli id="T78" time="80.29827491479932"/>
+<tli id="T79" time="80.86492940776387"/>
+<tli id="T80" time="81.37825171315528"/>
+<tli id="T81" time="84.02486152147203"/>
+<tli id="T82" time="85.26483488254739"/>
+<tli id="T83" time="87.1981266820735"/>
+<tli id="T84" time="87.49145371372572"/>
+<tli id="T85" time="90.0313991468962"/>
+<tli id="T86" time="90.7647167260268"/>
+<tli id="T87" time="91.17137465627194"/>
+<tli id="T88" time="91.63803129753686"/>
+<tli id="T89" time="93.50465786259653"/>
+<tli id="T90" time="93.71132008944242"/>
+<tli id="T91" time="94.08464540245437"/>
+<tli id="T92" time="94.99795911464427"/>
+<tli id="T95" time="95.91127282683419"/>
+<tli id="T93" time="96.9045848203838"/>
+<tli id="T94" time="97.3979075554353"/>
+<tli id="T96" time="98.66454701029721"/>
+<tli id="T97" time="99.1578697453487"/>
+<tli id="T98" time="100.24451306715129"/>
+<tli id="T99" time="101.51115252201322"/>
+<tli id="T100" time="102.97112115682776"/>
+<tli id="T101" time="104.99774428460682"/>
+<tli id="T102" time="105.15774084732624"/>
+<tli id="T103" time="105.61773096514452"/>
+<tli id="T104" time="105.97772323126317"/>
+<tli id="T105" time="106.8310382324333"/>
+<tli id="T106" time="107.99767983559562"/>
+<tli id="T109" time="108.39544906791191" type="intp"/>
+<tli id="T110" time="108.79321830022819" type="intp"/>
+<tli id="T111" time="108.85766136021239"/>
+<tli id="T107" time="110.26429780745379"/>
+<tli id="T108" time="112.61091406067166"/>
+<tli id="T112" time="112.87757499853733"/>
+<tli id="T1" time="113.944"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="Hotz [v]"><event start="T0" end="T2">an</event>
+<event start="T2" end="T3">äw</event>
+<event start="T3" end="T4">an an besitz geld verdienen</event>
+<event start="T4" end="T5">(0.2)</event>
+<event start="T5" end="T6">aber</event>
+<event start="T6" end="T7">(0.2)</event>
+<event start="T7" end="T8">er ist n freundlicher mann |</event>
+<event start="T8" end="T9">muss man ehrlich sagen |</event>
+<event start="T9" end="T10">er kümmert sich nie um irgendwas in der wohnung |</event>
+<event start="T10" end="T11">°h aber es kostet halt auch nix da zu wohnen |</event>
+<event start="T11" end="T12">°h und der</event>
+<event start="T12" end="T13">(0.3)</event>
+<event start="T13" end="T14">äh war immer bisher so |</event>
+<event start="T14" end="T15">(0.2)</event>
+<event start="T15" end="T16">ä distanziert so wie n vermieter zu sein hat |</event>
+<event start="T16" end="T17">(0.3)</event>
+<event start="T17" end="T18">anstatt</event>
+<event start="T18" end="T19">einmal persönlichen kontakt mit ihm weil als ich den mietvertrag unterschrieben hab |</event>
+<event start="T19" end="T20">und das war so |</event>
+<event start="T20" end="T21">(0.3)</event>
+<event start="T21" end="T22">ende 2020</event>
+<event start="T22" end="T23">und ich hatte wirklich angst dass ich ihn mit einem |</event>
+<event start="T23" end="T24">°h corona versäuchten atemzug |</event>
+<event start="T24" end="T25">aus versehen umbringe |</event>
+<event start="T25" end="T26">(0.3)</event>
+<event start="T26" end="T27">weil dann wirds ja |</event>
+<event start="T27" end="T28">und intressant wenn das |</event>
+<event start="T28" end="T29">wenn die wohnung</event>
+<event start="T29" end="T30">(0.3)</event>
+<event start="T30" end="T31">an die nach</event>
+<event start="T31" end="T32">an die nachfahren |</event>
+<event start="T32" end="T33">die erben geht |</event>
+<event start="T33" end="T35">°h und ich </event>
+<event start="T35" end="T113">glaub </event>
+<event start="T113" end="T34">dann wirds unangenehm dort |</event>
+<event start="T34" end="T36">jedenfalls äh hat der gestern |</event>
+<event start="T36" end="T37">äh</event>
+<event start="T37" end="T38">irgendwas hochgetragen</event>
+<event start="T38" end="T39">im in diesem haus |</event>
+<event start="T39" end="T40">(0.3)</event>
+<event start="T40" end="T41">und das er sollte eirklich nichts tragen |</event>
+<event start="T41" end="T42">das ist echt nicht okay</event>
+<event start="T42" end="T43">dass er das macht |</event>
+<event start="T43" end="T44">und dann hat er so zwischen zwei schweren atemzügen gesagt |</event>
+<event start="T44" end="T45">°h ich hab sie |</event>
+<event start="T45" end="T46">°h in der abteilung gesehen |</event>
+<event start="T46" end="T47">und</event>
+<event start="T47" end="T48">und dann hab ich gesagt |</event>
+<event start="T48" end="T49">(0.2)</event>
+<event start="T49" end="T50">ja</event>
+<event start="T50" end="T51">(0.6)</event>
+<event start="T51" end="T52">?</event>
+<event start="T52" end="T53">(0.7)</event>
+<event start="T53" end="T54">okay</event>
+<event start="T54" end="T55">das war die Konversation |</event>
+<event start="T55" end="T57">das wars |</event>
+<event start="T57" end="T58">(0.3)</event>
+<event start="T59" end="T60">ja das ist voll lieb |</event>
+<event start="T60" end="T61">aber ich weiß jetzt irgendwie nicht |</event>
+<event start="T61" end="T62">öh oh (0.2) also (0.4) e echt </event>
+<event start="T62" end="T63">ich weiß |</event>
+<event start="T68" end="T69">öwaaa </event>
+<event start="T114" end="T67">ahhhhh</event>
+<event start="T67" end="T70"></event>
+<event start="T70" end="T72">ja ich möchte das | </event>
+<event start="T72" end="T71">also es kann schon sein dass jetzt demnächst so | </event>
+<event start="T73" end="T75">mmmmmmmmm</event>
+<event start="T75" end="T76">ja aber absetzen steuerlich absetzen cool aber | </event>
+<event start="T76" end="T77">am ende muss ich dann |</event>
+<event start="T77" end="T78">(1.2)</event>
+<event start="T78" end="T79">mein mein</event>
+<event start="T79" end="T80">(0.5)</event>
+<event start="T80" end="T81">80 prozent meines einkommens an irgendnen </event>
+<event start="T81" end="T82">°h arschloch-vermieter</event>
+<event start="T82" end="T83">ewwww abführn | das möchte ich nicht |</event>
+<event start="T83" end="T84">(0.3)</event>
+<event start="T84" end="T85">ich möchte dass mein vermieter mir nach wie vor wohlgesonnen bleibt |</event>
+<event start="T88" end="T89">nä das buch werde ich mich nicht ihm schenken | </event>
+<event start="T89" end="T90">(0.2)</event>
+<event start="T91" end="T92">was könnte ich ihm denn schenken | </event>
+<event start="T92" end="T95">was is was n cooles </event>
+<event start="T95" end="T93">geschenk fürn vermieter |</event>
+<event start="T94" end="T96">fußmaske |</event>
+<event start="T102" end="T103">ja |</event>
+<event start="T109" end="T110">ja |</event>
+</tier><tier id="TIE1" speaker="SPK1" category="v" type="t" display-name="Houmsi [v]"><event start="T33" end="T35">oh</event>
+<event start="T35" end="T34">ja</event>
+<event start="T42" end="T43">oh nein</event>
+<event start="T56" end="T55">und das wars |</event>
+<event start="T58" end="T59">aber das ist doch lieb | </event>
+<event start="T64" end="T63">mach die schon mal diesen </event>
+<event start="T63" end="T65">diesen extra account bei immoscount |</event>
+<event start="T65" end="T66">wo du so ähm 30 euro im monat bezahlst |</event>
+<event start="T66" end="T68">damit du </event>
+<event start="T68" end="T69">ähm schneller deine anfragen </event>
+<event start="T69" end="T114">durchgehen | und </event>
+<event start="T114" end="T67">trotzdem wird dann jemand an- |</event>
+<event start="T67" end="T70">einfach sicherheitshalber |</event>
+<event start="T74" end="T71">das kannst du bestimmt absetzen</event>
+<event start="T71" end="T73">die 30 Euro |</event>
+<event start="T73" end="T75">irgendwie |</event>
+<event start="T85" end="T86">schnek ihm doch dein- |</event>
+<event start="T86" end="T87">ne |</event>
+<event start="T87" end="T88">doch nich |</event>
+<event start="T90" end="T91">ne |</event>
+<event start="T92" end="T95">ja |</event>
+<event start="T95" end="T93">ich frag mich |</event>
+<event start="T93" end="T94">°h ich |</event>
+<event start="T94" end="T96">weißt du worin ich |</event>
+<event start="T96" end="T97">ja |</event>
+<event start="T97" end="T98">weißt du worin ich richtig schlecht bin |</event>
+<event start="T98" end="T99">kennst du das wenn manchmal so |</event>
+<event start="T99" end="T100">man hat ja so situationen wie |</event>
+<event start="T100" end="T101">ein nachbar nimmt immer deine Pakete an |</event>
+<event start="T101" end="T102">(0.2)</event>
+<event start="T103" end="T104">und |</event>
+<event start="T104" end="T105">man will sich bedanken |</event>
+<event start="T105" end="T106">ich hatte das in meiner alten wohnung |</event>
+<event start="T106" end="T111">endlich kann ichs erzählen |</event>
+<event start="T111" end="T107">weil ich werde nichts mehr mit dem zu tun haben |</event>
+<event start="T107" end="T108">ich hatte so angst wenn ichs erzähle dass es dann noch awkwarder wird |</event>
+<event start="T108" end="T112">(0.3)</event>
+<event start="T112" end="T1">ich hatte ein nachbarn |</event>
+</tier><tier id="TIE_" speaker="SPK2" category="v" type="t" display-name="Pause [v]"><event start="T29" end="T30">(0.3)|</event>
+<event start="T50" end="T51">(0.6)|</event>
+<event start="T77" end="T78">(1.2)|</event>
+</tier></basic-body>
+</basic-transcription>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="HoHo07.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
+<abbreviation>Hotz</abbreviation>
+<sex value="m"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="SPK1">
+<abbreviation>Houmsi</abbreviation>
+<sex value="f"/>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information>
+</ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable></head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0.0"/>
+<tli id="T2" time="0.4866393648302087"/>
+<tli id="T3" time="0.859951754288999"/>
+<tli id="T7" time="1.1399360463830917"/>
+<tli id="T4" time="1.3065933631057658"/>
+<tli id="T5" time="2.3865327754686945"/>
+<tli id="T6" time="3.679793553236647"/>
+<tli id="T9" time="4.226429552087018"/>
+<tli id="T11" time="4.619740819552529"/>
+<tli id="T12" time="5.099713891713831"/>
+<tli id="T15" time="5.335256232681877" type="intp"/>
+<tli id="T16" time="6.472970181508666"/>
+<tli id="T19" time="7.166264619074991"/>
+<tli id="T22" time="7.426250033162362"/>
+<tli id="T8" time="7.752898373938805"/>
+<tli id="T10" time="8.172874812079943"/>
+<tli id="T13" time="9.173618667536257"/>
+<tli id="T14" time="9.605926943947082"/>
+<tli id="T17" time="13.15259543575345"/>
+<tli id="T18" time="13.731933012026884"/>
+<tli id="T20" time="14.372526994163426"/>
+<tli id="T21" time="14.721653837446725"/>
+<tli id="T23" time="15.099152895074283"/>
+<tli id="T24" time="17.49901825588079"/>
+<tli id="T25" time="18.750800436612657"/>
+<tli id="T26" time="18.923460047748087"/>
+<tli id="T27" time="21.312137662495577"/>
+<tli id="T28" time="21.845441076008132"/>
+<tli id="T29" time="23.21869736580297"/>
+<tli id="T30" time="24.071982827423064"/>
+<tli id="T31" time="25.413367820531157"/>
+<tli id="T32" time="26.70516843164132"/>
+<tli id="T33" time="27.038483065086663"/>
+<tli id="T34" time="28.865047256367177"/>
+<tli id="T35" time="29.285023694508315"/>
+<tli id="T36" time="29.678334961973825"/>
+<tli id="T37" time="30.038314766094803"/>
+<tli id="T38" time="30.34496422886452"/>
+<tli id="T39" time="30.964929447072873"/>
+<tli id="T40" time="31.35824071453838"/>
+<tli id="T41" time="31.591560957950122"/>
+<tli id="T42" time="32.01153739609126"/>
+<tli id="T43" time="32.101532347121505"/>
+<tli id="T44" time="33.35146222254156"/>
+<tli id="T45" time="33.79143753868942"/>
+<tli id="T46" time="34.64472300030951"/>
+<tli id="T47" time="35.35801631588256"/>
+<tli id="T48" time="35.7846590466926"/>
+<tli id="T49" time="36.86459845905553"/>
+<tli id="T50" time="37.27790860452777"/>
+<tli id="T51" time="38.53783791895118"/>
+<tli id="T52" time="38.85115367438981"/>
+<tli id="T53" time="39.03780986911921"/>
+<tli id="T54" time="39.811099818712414"/>
+<tli id="T55" time="41.344347132561026"/>
+<tli id="T56" time="42.637607910328974"/>
+<tli id="T57" time="43.02425288512558"/>
+<tli id="T58" time="43.75087878603643"/>
+<tli id="T59" time="44.22418556552883"/>
+<tli id="T60" time="44.83748449106827"/>
+<tli id="T61" time="46.13074526883622"/>
+<tli id="T62" time="46.92403409643615"/>
+<tli id="T63" time="47.377341997921825"/>
+<tli id="T64" time="49.10391179916872"/>
+<tli id="T65" time="50.49050067430138"/>
+<tli id="T66" time="50.64382540568624"/>
+<tli id="T67" time="51.31045467257693"/>
+<tli id="T68" time="51.63043672068448"/>
+<tli id="T69" time="52.05707945149452"/>
+<tli id="T70" time="53.21701437588433"/>
+<tli id="T71" time="53.54366271666076"/>
+<tli id="T72" time="55.550216810001764"/>
+<tli id="T73" time="55.91019661412274"/>
+<tli id="T74" time="56.71015173439159"/>
+<tli id="T75" time="57.656765293376374"/>
+<tli id="T76" time="58.18340241422002"/>
+<tli id="T77" time="59.46333060665016"/>
+<tli id="T78" time="59.883307044791295"/>
+<tli id="T79" time="60.676595872391225"/>
+<tli id="T80" time="61.08323972519456"/>
+<tli id="T81" time="61.59654426070039"/>
+<tli id="T82" time="62.0765173328617"/>
+<tli id="T83" time="63.38311069596746"/>
+<tli id="T84" time="63.703092744074986"/>
+<tli id="T85" time="63.82975230478422"/>
+<tli id="T86" time="65.04968386319419"/>
+<tli id="T87" time="66.30961317761762"/>
+<tli id="T88" time="67.23622785859568"/>
+<tli id="T89" time="68.32949985629644"/>
+<tli id="T90" time="68.60281785572161"/>
+<tli id="T92" time="68.81613922112663"/>
+<tli id="T93" time="69.19611790325433"/>
+<tli id="T94" time="70.90935511916342"/>
+<tli id="T91" time="71.24266975260878"/>
+<tli id="T96" time="71.68264506875664"/>
+<tli id="T95" time="72.56259570105236"/>
+<tli id="T1" time="73.76919467412452"/>
+<tli id="T98" time="74.809136330474"/>
+<tli id="T99" time="75.1957813052706"/>
+<tli id="T100" time="75.66242179209411"/>
+<tli id="T101" time="76.18905891293775"/>
+<tli id="T102" time="76.95568256986205"/>
+<tli id="T103" time="77.56231520273259"/>
+<tli id="T104" time="78.42226695702158"/>
+<tli id="T105" time="79.00890071188539"/>
+<tli id="T106" time="80.44881992836929"/>
+<tli id="T107" time="81.04878626857092"/>
+<tli id="T108" time="82.32871446100106"/>
+<tli id="T109" time="83.5153145560665"/>
+<tli id="T110" time="83.82196401883623"/>
+<tli id="T111" time="84.77524387048993"/>
+<tli id="T112" time="88.36170932636188"/>
+<tli id="T113" time="88.70835654514502"/>
+<tli id="T114" time="89.36165322669792"/>
+<tli id="T115" time="91.19488371064733"/>
+<tli id="T116" time="92.03483658692961"/>
+<tli id="T117" time="92.84812429253626"/>
+<tli id="T97" time="94.228"/>
+</common-timeline>
+<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="Hotz [v]"><event start="T7" end="T4">°h|</event>
+<event start="T4" end="T5">((unverständlich, 1.08s))| </event>
+<event start="T5" end="T6">((unverständlich, 1.293s))| </event>
+<event start="T6" end="T9"><![CDATA[<<lachend>ich schon|>]]></event>
+<event start="T9" end="T11">aber sonst </event>
+<event start="T11" end="T12">leider kei </event>
+<event start="T12" end="T15">ne| </event>
+<event start="T15" end="T16">((lacht))| </event>
+<event start="T19" end="T22">°h|</event>
+<event start="T22" end="T8">ja ich| </event>
+<event start="T8" end="T10">kann nir</event>
+<event start="T10" end="T13">gends anders duschen| </event>
+<event start="T13" end="T14">°h|</event>
+<event start="T14" end="T17">aber dafür kann ich mir immer an meinem computer nen cooles youtube video anmachen so dem ich|  </event>
+<event start="T17" end="T18">duschen geh| </event>
+<event start="T21" end="T23">nein ich</event>
+<event start="T23" end="T24">schau nicht währenddessen auf den computer aber ich hörs dann so|</event>
+<event start="T24" end="T25">als es gibt ja auch so viele|</event>
+<event start="T25" end="T26">°h| </event>
+<event start="T26" end="T27">äh youtube formate die so podcastig funktionieren|</event>
+<event start="T27" end="T28">°h| </event>
+<event start="T28" end="T29">das hör ich mir dann gern an °h| </event>
+<event start="T29" end="T30">ähm jedenfalls| </event>
+<event start="T31" end="T32">äh nee| </event>
+<event start="T32" end="T33">h°|</event>
+<event start="T34" end="T35">(0.4)|  </event>
+<event start="T35" end="T36">°h| </event>
+<event start="T36" end="T37">ich hab|</event>
+<event start="T37" end="T38">°h|</event>
+<event start="T38" end="T39">äuh| </event>
+<event start="T39" end="T40">äh|</event>
+<event start="T40" end="T41">ich| </event>
+<event start="T41" end="T42">mein vermie</event>
+<event start="T42" end="T43">ter</event>
+<event start="T43" end="T44">ist der älteste mensch der welt| </event>
+<event start="T44" end="T45">°h| </event>
+<event start="T45" end="T46">also wirklich| </event>
+<event start="T46" end="T47">der ist| </event>
+<event start="T47" end="T48">(0.4)| </event>
+<event start="T48" end="T49">siebenhundert jahre alt| </event>
+<event start="T49" end="T50">der hat| </event>
+<event start="T51" end="T52">ja ich</event>
+<event start="T52" end="T53">will|</event>
+<event start="T53" end="T54">der hört den pod| </event>
+<event start="T54" end="T55">°h also wenn der den podcast hört °h|</event>
+<event start="T55" end="T56">dann schieß ich mir wirklich ins knie| </event>
+<event start="T56" end="T57">das ist</event>
+<event start="T57" end="T58">mir scheißegal| </event>
+<event start="T58" end="T59">°h|</event>
+<event start="T59" end="T60">fuck you| </event>
+<event start="T61" end="T62"><![CDATA[<<lachend>schreiben wir gesammelt ]]></event>
+<event start="T62" end="T63"><![CDATA[ne mail|>]]></event>
+<event start="T66" end="T67">zweitens wegen der wohnung| </event>
+<event start="T67" end="T68">°h| </event>
+<event start="T68" end="T69">we we wir w</event>
+<event start="T69" end="T70">ürden du dü darfst drinbleiben| </event>
+<event start="T70" end="T71">aber ma</event>
+<event start="T71" end="T72">sch schreib noch ne eins vor die miete °hh| </event>
+<event start="T72" end="T73">und</event>
+<event start="T73" end="T74">ich hab wirklich n| </event>
+<event start="T74" end="T75">enormes äh g</event>
+<event start="T75" end="T76">lück| </event>
+<event start="T77" end="T78">ja es w</event>
+<event start="T78" end="T79">är immer noch nicht so viel| </event>
+<event start="T79" end="T80">äh| </event>
+<event start="T80" end="T81">ich hab| </event>
+<event start="T81" end="T82">äh| </event>
+<event start="T82" end="T83">ich hab wirklich glück mit dieser wohnung gehabt| </event>
+<event start="T83" end="T84">sie ist| </event>
+<event start="T84" end="T85">(0.1)| </event>
+<event start="T85" end="T86">offensichtlich runtergerockt| </event>
+<event start="T86" end="T87">es gibt son paar sachen wo man sich denkt| </event>
+<event start="T87" end="T88">°h| </event>
+<event start="T88" end="T89">ja das ist baufällig| </event>
+<event start="T89" end="T90">(0.3)| </event>
+<event start="T90" end="T92">und ich</event>
+<event start="T92" end="T93">glaube wenn</event>
+<event start="T93" end="T94">das ding irgendwie mal feuer fängt| </event>
+<event start="T94" end="T91">dann brennt</event>
+<event start="T91" end="T96"> es innerhalb von</event>
+<event start="T96" end="T95">drei sekunden ab| </event>
+<event start="T95" end="T1">weil das ist alles so| </event>
+<event start="T1" end="T98">°h so alt| </event>
+<event start="T98" end="T99">das ist halt| </event>
+<event start="T99" end="T100">((unverständlich, 0.5s))  </event>
+<event start="T100" end="T101">auch| </event>
+<event start="T101" end="T102">das gehört sich so| </event>
+<event start="T102" end="T103">°h| </event>
+<event start="T103" end="T104">das ist kultig| </event>
+<event start="T104" end="T105">ähm| </event>
+<event start="T105" end="T106">es ist wirklich ne kultwohnung| </event>
+<event start="T106" end="T107">((unverständlich, 0.6s))</event>
+<event start="T107" end="T108">äh dich mach die ja auch kultig| </event>
+<event start="T108" end="T109">und die kostet nicht so viel| </event>
+<event start="T109" end="T110">und ich kann </event>
+<event start="T110" end="T111">da niemals ausziehen weil| </event>
+<event start="T111" end="T112">wenn ich ne vergleichbare wohnung möcht zahle ich halt wirklich fürs fünffache oder das| </event>
+<event start="T112" end="T113">das a</event>
+<event start="T113" end="T114">chtfache °h| </event>
+<event start="T114" end="T115">und mein vermieter ist wirklich freundlich| </event>
+<event start="T115" end="T116">ich hasse vermieter| </event>
+<event start="T116" end="T117">ich hasse auch ihn| </event>
+<event start="T117" end="T97">ich hasse dass es menschen gibt die °h| </event>
+</tier><tier id="TIE2" speaker="SPK1" category="v" type="t" display-name="Houmsi [v]"><event start="T0" end="T2">°h| </event>
+<event start="T2" end="T3">ja| </event>
+<event start="T3" end="T4">ich hab leider| </event>
+<event start="T4" end="T5">äh damit kann ich nich dienen|</event>
+<event start="T5" end="T6">ich hab KEine dusche in meinem büro|</event>
+<event start="T11" end="T12">klingt auch</event>
+<event start="T12" end="T15">nach nem </event>
+<event start="T15" end="T16">gesunden verhältnis so|</event>
+<event start="T16" end="T19">zwischen arbeit</event>
+<event start="T22" end="T8">du</event>
+<event start="T8" end="T10">schen| </event>
+<event start="T10" end="T13">((lacht))| </event>
+<event start="T13" end="T14">((lacht))| </event>
+<event start="T17" end="T18">beim du| </event>
+<event start="T18" end="T20">°h woah| </event>
+<event start="T20" end="T21">das ist</event>
+<event start="T21" end="T23">cool| </event>
+<event start="T27" end="T28">mhm| </event>
+<event start="T30" end="T31">hörst du andere podcasts| </event>
+<event start="T33" end="T34">((lacht))| </event>
+<event start="T35" end="T36">°h|</event>
+<event start="T36" end="T37">((lacht))| </event>
+<event start="T37" end="T38">he he|</event>
+<event start="T38" end="T39">°h| </event>
+<event start="T42" end="T43">h°| </event>
+<event start="T49" end="T50">willst du jetzt</event>
+<event start="T50" end="T51">wirklich auch noch über ihn reden ne| </event>
+<event start="T52" end="T53">ja| </event>
+<event start="T53" end="T54">((unverständlich, 0.773s))| </event>
+<event start="T55" end="T56">°h und h°| </event>
+<event start="T56" end="T57">°h|</event>
+<event start="T57" end="T58">ja und matthia</event>
+<event start="T58" end="T59">s döpfner</event>
+<event start="T59" end="T60">schreiben wir| </event>
+<event start="T60" end="T61">schreiben wir gesammelt ne mail| </event>
+<event start="T62" end="T63">ey also</event>
+<event start="T63" end="T64"> äh einmal erstens wegen den wölfen| </event>
+<event start="T64" end="T65">und zweitens wegen der wohnung| </event>
+<event start="T65" end="T66">mh| </event>
+<event start="T67" end="T68">he| </event>
+<event start="T68" end="T69">°h °h °h| </event>
+<event start="T70" end="T71">h°| </event>
+<event start="T73" end="T74">h°| </event>
+<event start="T75" end="T76">das wär immer</event>
+<event start="T76" end="T77">noch äh wenig bei dir| </event>
+<event start="T77" end="T78">eh| </event>
+<event start="T79" end="T80">also| </event>
+<event start="T81" end="T82">°h| </event>
+<event start="T92" end="T93">((lacht))| </event>
+<event start="T91" end="T96">°h| </event>
+<event start="T95" end="T1"></event>
+<event start="T98" end="T99">aber das</event>
+<event start="T99" end="T100">gehört sich </event>
+<event start="T100" end="T101">so in berlin| </event>
+<event start="T102" end="T103">das ist kultig| </event>
+<event start="T106" end="T107">((lachen))| </event>
+<event start="T109" end="T110">((lachen))| </event>
+<event start="T112" end="T113">mhm| </event>
+</tier></basic-body>
+<tierformat-table><timeline-item-format show-every-nth-numbering="1" show-every-nth-absolute="1" absolute-time-format="time" miliseconds-digits="1"/><tier-format tierref="TIE2"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">12</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY-EDITOR"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="EMPTY"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">white</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">2</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="TIE0"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">12</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="SUB-ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">white</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Right</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">8</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="ROW-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Bold</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">10</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format><tier-format tierref="COLUMN-LABEL"><property name="row-height-calculation">Generous</property><property name="font-face">Plain</property><property name="fixed-row-height">10</property><property name="bg-color">lightGray</property><property name="font-color">black</property><property name="chunk-border-style">solid</property><property name="text-alignment">Left</property><property name="chunk-border-color">#R00G00B00</property><property name="font-size">7</property><property name="chunk-border"></property><property name="font-name">Times New Roman</property></tier-format></tierformat-table></basic-transcription>
