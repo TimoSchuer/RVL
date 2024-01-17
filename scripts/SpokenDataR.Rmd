@@ -5,26 +5,158 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
+Benötige Pakete installieren und laden
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+#check for installed packages, install missing and load all packages
+library(tidyverse)
+devtools::install_github("TimoSchuer/ExmaraldaR", upgrade= "never", force = FALSE)
+library(ExmaraldaR)
+
+
+
 ```
 
-## R Markdown
+## Ein paar nützliche Funktionen definieren
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r}
+source("functions.R")
 ```
 
-## Including Plots
+## Daten einlesen
 
-You can also embed plots, for example:
+```{r}
+exb <- read_exb_dir(pathDir = "../data", 
+                    readAnn = FALSE, 
+                    verbose = TRUE, 
+                    addDescription = FALSE,
+                    addPaths = TRUE)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+glimpse(exb)
+
+```
+
+```{r}
+head(exb)
+```
+
+## Daten kennenlernen
+
+### Verteilung der Redeanteile auf Sprecher\*innen
+
+```{r}
+exb %>% 
+  mutate(Duration= End_time-Start_time) %>% 
+  summarise(RedezeitMinuten= sum(Duration)/60,
+            .by = Name)
+
+exb %>% 
+  mutate(Duration= End_time-Start_time) %>% 
+  summarise(RedezeitMinuten= sum(Duration)/60,
+            .by = Name) %>% 
+  ggplot(aes(x=RedezeitMinuten,
+             y=Name))+
+  geom_col()
+```
+
+### Bereinigen der Pausen
+
+```{r}
+exb %>% 
+  filter(!str_detect(Text, "\\(\\d+\\.\\d+\\)\\|")) %>% 
+  mutate(Duration= End_time-Start_time) %>% 
+  summarise(RedezeitMinuten= sum(Duration)/60,
+            .by = Name)
+
+exb %>% 
+  mutate(Duration= End_time-Start_time) %>% 
+  summarise(RedezeitMinuten= sum(Duration)/60,
+            .by = Name) %>% 
+  ggplot(aes(x=RedezeitMinuten,
+             y=Name))+
+  geom_col()
+
+```
+
+### Visualisieren von Gesprächsverläufen
+
+```{r}
+for (f in unique(exb$File)) {
+  
+  p <-  exb %>% 
+    filter(File==f) %>% 
+    mutate(duration= End_time-Start_time) %>% 
+    ggplot(aes(x=duration,
+               y= IPNumber,
+               fill= Name))+
+    geom_col(position = "stack") +
+    scale_y_discrete(limits=rev)
+  plot(p)
+}
+```
+
+## Daten analysieren
+
+### Häufige Token finden
+
+```{r}
+exb %>% 
+  tidytext::unnest_tokens(output = "Token",
+                          input = "Text") %>% 
+  summarise(n=n(),
+            .by = Token) %>% 
+  arrange(desc(n))
+exb %>% 
+  tidytext::unnest_tokens(output = "Token",
+                          input = "Text") %>% 
+  summarise(n=n(),
+            .by = Token) %>%
+  slice_max(n=10,
+            order_by=n) %>% 
+  ggplot(aes(x=n,
+             y=reorder(Token,n)))+
+  geom_col()
+
+```
+
+### Häufigste Mehrworteinheiten
+
+```{r}
+exb %>%  
+  collapseIP() %>% 
+  tidytext::unnest_ngrams(output = "ngram",
+                          input = "Text",
+                          n=2) %>% 
+  filter(!is.na(ngram)) %>% 
+  summarise(n=n(),
+            .by = ngram) %>% 
+  arrange(desc(n))
+
+ exb %>% 
+   collapseIP() %>% 
+  tidytext::unnest_ngrams(output = "ngram",
+                          input = "Text",
+                          n=2) %>% 
+   filter(!is.na(ngram)) %>% 
+  summarise(n=n(),
+            .by = ngram)  %>%
+  slice_max(n=10,
+            order_by=n,
+            na_rm = TRUE) %>% 
+  ggplot(aes(x=n,
+             y=reorder(ngram,n)))+
+  geom_col()
+  
+```
+
+### Wort/Phrase in den Kontext setzen
+
+```{r}
+exb %>%
+  tokenize_exb(assign_times = FALSE) %>% 
+  createKWIC(window = 2,pattern = "also") 
+```
