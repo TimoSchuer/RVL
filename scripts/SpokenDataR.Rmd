@@ -94,7 +94,7 @@ for (f in unique(exb$File)) {
                y= IPNumber,
                fill= Name))+
     geom_col(position = "stack") +
-    scale_y_discrete(limits=rev)
+    scale_y_discrete(limits=rev, breaks= NULL)
   plot(p)
 }
 ```
